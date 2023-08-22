@@ -32,7 +32,7 @@ Get up and running with React Native, the popular framework for building native 
 1. `cd OfficialTechInitProject`
 2. `npx expo start`
 
-<br>
+<hr>
 
 ### Output
 1. make sure you have expo app on your cell phone
